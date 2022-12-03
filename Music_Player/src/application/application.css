@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.bottom_bar_color{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #085581, #6c121a);
+}
+
+.body-background{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #a9182a, #085A89);
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search-background{
+    -fx-background-color: #87899d;
+    -fx-background-radius: 50;
+}
+
+.Menu-bar-background{
+    -fx-background-color: #FF5959;
+    -fx-background-radius: 0 30 30 0;
+}
+
+.playing-song{
+    -fx-border-color: #FAFAFA;
+    -fx-border-width: 3 ;
+    -fx-border-radius: 10;
+}
+
+.progress-Bar .bar{
+	-fx-background-color: linear-gradient(to left, royalblue, red);
+}
